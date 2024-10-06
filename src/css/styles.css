@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.card-container {
+  display: flex;
+  max-height: 6000px;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 2px;
+}
+
+/* Image.css */
+.custom-image {
+  max-width: 100%;
+  height: auto;
+  border: 2px solid #ddd;
+}
