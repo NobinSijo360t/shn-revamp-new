@@ -14,6 +14,7 @@ import Sponsers from '../components/Sponsers'
 // import LandingPage from '../components/LandingPage'
 import BottomImage from '../components/BottomImage'
 import AboutCards from '../components/AboutCards'
+import FaqList from "@/components/FaqList";
 // import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 // import Testimonials from '../components/Testimonials'
@@ -33,6 +34,7 @@ export default function Home() {
       <RegistrationSteps/>  
       <WhySaturdayHacknight/>
       <Sponsers/>
+      <FaqList/>
       <BottomImage/>
       <Footer/>
     </div>
